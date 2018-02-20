@@ -1,0 +1,17 @@
+body {
+  margin: 20px;
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+hr{
+  border-top:solid 5px;
+  width: 400px;
+}
+h1{
+  color: red;
+}
+h4{
+  color: darkgreen;
+}
