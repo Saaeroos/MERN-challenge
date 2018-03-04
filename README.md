@@ -4,6 +4,7 @@ This was a challenge during the guide period in RESTART NETWORK
 
 ### Technologies Used build this project: 
 * React
+* nodejs(express)
 * mongodb
 * mlab
 
