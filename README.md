@@ -2,15 +2,15 @@
 
 This was a challenge during the guide period in RESTART NETWORK
 
-##This project was build using: 
-*React
-*mongodb
-*mlab
+### Technologies Used build this project: 
+* React
+* mongodb
+* mlab
 
-##This project was deployed using: 
-*google cloud platform(backEnd)
-*firebase(forntEnd)
+## This project was deployed using: 
+* google cloud platform(backEnd)
+* firebase(forntEnd)
 
-#link for deployed app below:
+## link for deployed app below:
 
 https://mern-challenge.firebaseapp.com/
